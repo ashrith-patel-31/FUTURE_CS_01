@@ -3,7 +3,8 @@
 Cyber Security Internship Repository
 
 ## Tasks Completed
+- Task 1: Vulnerability Assessment
 - Task 2: Phishing Email Detection and Awareness
 
 ## Author
-Ashrith Patel
+Akula Ashrith 
